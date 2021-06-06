@@ -32,7 +32,7 @@ export function NewTransactionModal({isOpen, onRequestClose}: NewTransactionModa
       title,
       amount,
       type,
-      category
+      category,
     })
 
     setTitle("");
